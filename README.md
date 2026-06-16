@@ -9,6 +9,8 @@ This repository contains my web development projects created while learning fron
 * Currency Converter
 * Quiz Game
 * Random Password Generator
+* BMI Calculator
+* Basic Calculator
 * Portfolio Website
 * Landing Pages
 * Login Forms

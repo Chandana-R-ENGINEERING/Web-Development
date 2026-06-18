@@ -7,6 +7,7 @@ This repository contains my web development projects created while learning fron
 * Amazon Clone
 * Calculator
 * Currency Converter
+* Temperature Converter
 * Quiz Game
 * Random Password Generator
 * BMI Calculator
